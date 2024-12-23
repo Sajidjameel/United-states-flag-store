@@ -28,7 +28,7 @@ This project highlights my expertise in developing feature-rich eCommerce soluti
 
 - **Fast Load Times**: Optimized for speed, ensuring fast page loading, which reduces bounce rates and enhances customer satisfaction.
 
-- **Admin Dashboard**: A comprehensive backend system for managing products, orders, customer data, and inventory with ease.
+- **Admin Dashboard**: A comprehensive backend system for managing products, orders, customer data and inventory with ease.
 
 ## 🏷️ Product Categories
 
